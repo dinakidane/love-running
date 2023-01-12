@@ -68,8 +68,8 @@ h1, h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color:#fff
-}
+    color:#fff;
+} 
 
 #hero-image {
     height: 600px;
@@ -136,7 +136,7 @@ h1, h2 {
 
 hr {
     border-top: 1px solid #3a3a3a;
-    width: 100px
+    width: 100px;
     margin: 5px 0;
 }
 
